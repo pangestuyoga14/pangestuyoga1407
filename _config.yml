@@ -3,8 +3,8 @@ title: Forty
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/pangestuyoga14.github.io" # the subpath of your site, e.g. /blog
-url: https://pangestuyoga14.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
+url:
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
